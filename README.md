@@ -1,6 +1,6 @@
 ## <p align="center"> Hi mates 👋 Call me Shofi </p>
-
-
+<p align="center"> <img width="50%" height="auto" scr="https://postimg.cc/8jqcGqNz/giphy.gif" height="100px"/></a> </p>
+<p align="center"> I'm a geophysics student. I'm studying computational methods. So, please guide! </p>
 
 
 
