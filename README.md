@@ -1,6 +1,5 @@
-### <p align="center"> Hi mates 👋 I'm Shofi </p>
+## <p align="center"> Hi mates 👋 Call me Shofi </p>
 
-<p align="center"><img width="50%" height="auto" src="https://ibb.co/tz7HhXZ/giphy.gif" height="100px"/></a></p>
 
 
 
